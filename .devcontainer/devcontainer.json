@@ -9,6 +9,6 @@
             ]
         }
     },
-    "postCreateCommand": "npm install",
+    "postCreateCommand": "yarn",
     "remoteUser": "node"
 }
