@@ -1,0 +1,8 @@
+Escreva um gitignore compativel com um projeto typeScript
+# Compiled output
+dist
+lib
+build
+out
+# Dependency directories
+node_modules

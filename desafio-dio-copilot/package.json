@@ -1,0 +1,24 @@
+{
+  "name": "desafio-dio-copilot",
+  "version": "1.0.0",
+  "description": "A credit card validator that identifies various credit card brands and validates card numbers.",
+  "main": "src/creditCardValidator.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "jest": "^26.0.0",
+    "@types/jest": "^26.0.0",
+    "ts-jest": "^26.0.0"
+  },
+  "keywords": [
+    "creditcard",
+    "validator",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
